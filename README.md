@@ -1,5 +1,6 @@
 # Emotion-Sentiment-Analysis
-This was developed as a short project to demonstrate automatic detection of emotion based on text.
+This was developed as a short project to demonstrate automatic detection of emotion based on text.  A simple demo of this can be seen here:
+https://drive.google.com/file/d/1UjfPiuVeA6o47J7QHrKce3vWMh5gCjda/view?usp=sharing
 
 This project uses Tone Analyzer by Watson (version 2016-05-19).  Details may be found here:
 https://gateway.watsonplatform.net/tone-analyzer
